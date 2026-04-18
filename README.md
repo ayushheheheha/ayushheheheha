@@ -1,18 +1,17 @@
 <div align="center">
 
-# hey, i'm ayush 👋
+<h1>Ayush Yadav</h1>
 
-**Software Engineering student @ VIT Vellore**  
-building things on the web · learning every day · occasional gym rat 🏋️
+<p>Software Engineering · VIT Vellore · Building things that work</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsksksk/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushheheheha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsksksk/)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushheheheha)
 
 </div>
 
 ---
 
-### 🛠 what i work with
+### Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
@@ -24,26 +23,26 @@ building things on the web · learning every day · occasional gym rat 🏋️
 
 ---
 
-### 🚀 things i'm building
+### Projects
 
-- **Genziitian** — online assessment platform (Node.js · React · PostgreSQL · Monaco Editor)
-- **HackDesk v2** — hackathon management system with QR ID cards & HMAC certificates (PHP · MySQL)
-- **gymrpg** — because why not gamify the gym
+**[Genziitian](https://github.com/ayushheheheha)** — Online assessment platform with code execution, math rendering, and role-based access.  
+`Node.js` `React` `PostgreSQL` `Monaco Editor` `JWT`
+
+**[HackDesk v2](https://github.com/ayushheheheha/hackdesk_v2)** — Hackathon management system with QR-coded ID cards, HMAC-signed certificates, and multi-round judging.  
+`PHP 8.2` `MySQL` `HMAC`
 
 ---
 
-### 📊 github stats
+### Stats
 
 <div align="center">
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushheheheha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushheheheha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Stats](https://github-readme-stats.vercel.app/api?username=ayushheheheha&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=30363d&text_color=8b949e&ring_color=58a6ff)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>M.Tech Software Engineering · VIT Vellore · Batch of 2028</sub>
+<sub>M.Tech Software Engineering · VIT Vellore</sub>
 </div>
