@@ -3,7 +3,7 @@
 # Ayush Yadav
 
 **Software Engineering student @ VIT Vellore**  
-building things on the web · learning every day
+Building things on the web · Learning every day
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsksksk/)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushheheheha)
@@ -12,7 +12,7 @@ building things on the web · learning every day
 
 ---
 
-### what i work with
+### What i work with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
@@ -21,13 +21,6 @@ building things on the web · learning every day
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
-
----
-
-### things i'm building
-
-- **Genziitian** — online assessment platform (Node.js · React · PostgreSQL · Monaco Editor)
-- **HackDesk v2** — hackathon management system with QR ID cards & HMAC certificates (PHP · MySQL)
 
 ---
 
