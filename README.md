@@ -1,3 +1,4 @@
+<!-- the ink in note.svg is drawn with EngiNote's pens -->
 <div align="center">
   <img src="./note.svg" width="100%" alt="Study notes, subject: me. Ayush Yadav builds things on the web. Software engineering student at VIT Vellore, batch of 2028. Makes the small tools he wished existed. Some of them even work.">
 </div>
