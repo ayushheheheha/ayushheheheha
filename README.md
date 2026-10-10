@@ -1,52 +1,32 @@
 <div align="center">
-
-# Ayush Yadav
-
-**Software Engineering student @ VIT Vellore**  
-Building things on the web · Learning every day
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsksksk/)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushheheheha)
-
+  <img src="./note.svg" width="100%" alt="Study notes, subject: me. Ayush Yadav builds things on the web. Software engineering student at VIT Vellore, batch of 2028. Makes the small tools he wished existed. Some of them even work.">
 </div>
 
----
+<br>
 
-### What i work with
+### things i've made
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+**[EngiNote](https://github.com/ayushheheheha/EngiNote)** · [try it](https://enginote.vercel.app)<br>
+Write on HTML notes the way you'd write on a PDF. A website, and an iPad app with Apple Pencil support and a screen recorder. The ink in the picture above is drawn by its pens.
 
----
+**[ScenePack Maker](https://github.com/ayushheheheha/scenepack_maker)**<br>
+A desktop app for cutting scenes out of drama episodes and sorting them into scene packs. Electron and React, no database: every project is one file on disk.
 
-### github stats
+**[HackDesk v2](https://github.com/ayushheheheha/hackdesk_v2)**<br>
+Hackathon management for VIT Vellore in plain PHP and MySQL, with QR codes, mail and PDFs.
 
-<div align="center">
+**[GenzLAB](https://github.com/ayushheheheha/sqlab)**<br>
+A SQL lab, coding challenges and quizzes for students in one place, with hints and leaderboards.
 
-<table>
-<tr>
-<td>
+**[Computational Thinking](https://computational-thinking-five.vercel.app)**<br>
+Study notes you can poke at: an interactive take on the first week of the course.
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushheheheha&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=30363d&text_color=8b949e&ring_color=58a6ff)
-
-</td>
-<td>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushheheheha&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
+<br>
 
 <div align="center">
-  <sub>M.Tech Software Engineering · VIT Vellore · Batch of 2028</sub>
+  <img src="./pens.svg" height="62" alt="">
+  <br><br>
+  <sub>M.Tech Software Engineering · VIT Vellore · batch of 2028 · <a href="https://www.linkedin.com/in/ayushsksksk/">LinkedIn</a></sub>
+  <br>
+  <sub><a href="https://github.com/ayushheheheha/hello-ayush">if you are reading this it's too late.</a></sub>
 </div>
